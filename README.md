@@ -1,7 +1,9 @@
 ## Hi my name is David Velasco 👋 <br/>
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVelasco593&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DavidVelasco593&theme=dark&hide_border=false)
 
+![](https://github-readme-stats.vercel.app/api?username=DavidVelasco593&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <!--
 **DavidVelasco593/DavidVelasco593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
