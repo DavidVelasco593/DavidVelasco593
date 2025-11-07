@@ -1,5 +1,5 @@
-## Hi my name is David Velasco 👋
-
+## Hi my name is David Velasco 👋 <br/>
+# 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=DavidVelasco593&theme=dark&hide_border=false)
 
 <!--
