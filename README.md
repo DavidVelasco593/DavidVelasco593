@@ -1,6 +1,6 @@
 ## Hi my name is David Velasco 👋
 
-https://nirzak-streak-stats.vercel.app/?user=DavidVelasco593&theme=dark&hide_border=false
+![](https://nirzak-streak-stats.vercel.app/?user=DavidVelasco593&theme=dark&hide_border=false)
 
 <!--
 **DavidVelasco593/DavidVelasco593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
